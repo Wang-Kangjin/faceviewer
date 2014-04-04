@@ -2,9 +2,8 @@
 
 #coding=utf-8
 
-import sys, os
+import sys, os, time
 from PyQt4 import QtCore, QtGui
-from main_ui import Ui_Form
 from PreView import PreviewView
 from SinView import SingleView
 from debug import *
